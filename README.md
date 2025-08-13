@@ -17,7 +17,8 @@ A React app to search movies using the OMDb API.
    npm start
 
 Features:
-   Search for movies
+   
+      Search for movies
 
     View details
 
