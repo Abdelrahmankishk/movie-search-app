@@ -6,7 +6,7 @@ A React app to search movies using the OMDb API.
 
 1. Clone this repo:
    ```bash
-   git clone <your-repo-link>
+   git clone (https://github.com/Abdelrahmankishk/movie-search-app)
    ```
 2. Install dependencies:
    npm install
@@ -17,7 +17,7 @@ A React app to search movies using the OMDb API.
    npm start
 
 Features:
-Search for movies
+   Search for movies
 
     View details
 
